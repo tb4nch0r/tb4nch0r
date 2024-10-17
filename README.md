@@ -18,7 +18,6 @@ Hello! I'm majoring in **Cybersecurity**, with a particular interest in:
 ### **Cybersecurity**  
 [![Pwnable Badge](https://img.shields.io/badge/Pwnable-FF6F61?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Pwnage)
 [![Web Security Badge](https://img.shields.io/badge/Web%20Security-4A90E2?style=flat-square&logo=security&logoColor=white)](https://owasp.org/)
-[![Embedded Security Badge](https://img.shields.io/badge/Embedded%20Security-8E44AD?style=flat-square&logo=hardware&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_systems)
 
 ### **Robotics**  
 [![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/)
