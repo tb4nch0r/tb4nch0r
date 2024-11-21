@@ -5,7 +5,6 @@ Hello! I'm majoring in **Cybersecurity**, with a particular interest in:
 - 💻 **Computer Science**
 - 🛡️ **Pwnable**
 - 🕹️ **Embedded && Hardware Hacking**
-- 
 ---
 
 ## 🧠 Skills & Technologies
