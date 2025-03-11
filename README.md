@@ -44,7 +44,7 @@ me.say_hi()
 * 𝑈𝑛𝑖𝑣𝑒𝑟𝑠𝑖𝑡𝑦 𝐼𝑛𝑡𝑟𝑎-𝑠𝑐ℎ𝑜𝑜𝑙 𝐶𝑇𝐹 [1𝑠𝑡]
 * 𝑃𝑂𝐶 2024 𝐻𝑎𝑐𝑘𝑖𝑛𝑔 & 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝐶𝑜𝑛𝑓𝑒𝑟𝑒𝑛𝑐𝑒
 
-![You Found Me](https://komarev.com/ghpvc/?username=tb4nch0r&color=2F2F2F&label=%20You%20Found%20Me%20👀%20)
+
 
 
 
