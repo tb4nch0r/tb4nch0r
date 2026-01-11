@@ -3,7 +3,13 @@
   𝙃𝙞, 𝙃𝙤𝙬'𝙨 𝙞𝙩 𝙜𝙤𝙞𝙣𝙜?
 </h1>
 
-<p><img src="https://camo.githubusercontent.com/007cb6b1bcdf85538d66b6c2053267740f2c22febebacfa9f14f2736a294a250/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d526f626f746f2b4d6f6e6f2673697a653d32342670617573653d3130303026636f6c6f723d3030464630302663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d2535422532422535442532304143434553532b4752414e5445442e3b57454c434f4d452b544f2b5448452b53595354454d2e" alt="[+] access granted. welcome to the system"/></p>
+<p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=%5B%2B%5D+ACCESS+GRANTED.%3BWELCOME+TO+THE+SYSTEM."
+    alt="[+] access granted. welcome to the system"
+  />
+</p>
+
 
 ```console
 $ ./access_system.sh
