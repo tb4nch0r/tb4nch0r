@@ -10,32 +10,6 @@
   />
 </p>
 
-
-```console
-$ ./access_system.sh
-   __  __    __ __             __    ____  
-  / /_/ /_  / // / ____  _____/ /_  / __ \_____  
- / __/ __ \/ // /_/ __ \/ ___/ __ \/ / / / ___/  
-/ /_/ /_/ /__  __/ / / / /__/ / / / /_/ / /     
-\__/_.___/  /_/ /_/ /_/\___/_/ /_/\____/_/  
-```
-## 𝙬𝙝𝙤𝙖𝙢𝙞
-```python
-#!/usr/bin/python3
-class Security_Researcher:
-    def __init__(self):
-        self.name = "Yubin Seo (tb4nch0r)"
-        self.role = "Undergraduate Student"
-        self.skills = ["Binary Exploitation", "Reverse Engineering"]
-        self.languages = ["C/C++", "Python"]
-
-    def say_hi(self):
-        print("⌬ Welcome, Operator. The system is online.")
-
-me = Security_Researcher()
-me.say_hi()
-```
-
 ## 𝙀𝙭𝙩𝙚𝙧𝙣𝙖𝙡 𝙖𝙘𝙩𝙞𝙫𝙞𝙩𝙞𝙚𝙨
 [2025]
 * 𝐾𝑖𝑡𝑟𝑖 𝐵𝑒𝑠𝑡 𝑜𝑓 𝑡ℎ𝑒 𝐵𝑒𝑠𝑡 14𝑡ℎ (𝑉𝑢𝑙𝑛𝑒𝑟𝑎𝑏𝑖𝑙𝑖𝑡𝑦 𝐴𝑛𝑎𝑙𝑦𝑠𝑖𝑠 𝑇𝑟𝑎𝑐𝑘) - 𝐩𝐫𝐞𝐬𝐞𝐧𝐭
